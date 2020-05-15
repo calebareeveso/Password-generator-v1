@@ -22,3 +22,6 @@
 ## USAGE 
 * Open the file and click on the button "**🏋️ click**" to generate password.
 * After generating the password click on the copy button to get the password.
+
+## CONTRIBUTING 
+ Pull request are welcomed,and also open an issue to discuss would like to change.
