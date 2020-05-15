@@ -24,4 +24,4 @@
 * After generating the password click on the copy button to get the password.
 
 ## CONTRIBUTING 
- Pull request are welcomed,and also open an issue to discuss would like to change.
+ Pull request are welcomed,and please open an issue to discuss what you would like to change.
