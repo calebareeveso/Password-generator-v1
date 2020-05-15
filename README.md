@@ -1,3 +1,4 @@
+PASSWORD GENERATOR
 
 It helps you create password with just a click.
 It ensures your password is validated and hard to crack.
